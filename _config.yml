@@ -34,7 +34,7 @@ owner:
   name: Geekdinner.be
   avatar: site-logo.png
   email: michael@netronix.be
-  disqus-shortname:
+  disqus-shortname: geekdinnerbe
   twitter: geekdinnerbe
   facebook: Geekdinnerbe
   github: michaelrigart/geekdinnerbe 
