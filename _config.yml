@@ -1,0 +1,47 @@
+# Site wide configuration
+
+title: Geekdinner.be
+locale: en_US
+description: Geekdinner.be - Where geeks wine, dine and get their freak on
+logo: site-logo.png
+search: false
+url: http://localhost:4000
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Geekdinner.be
+  avatar: site-logo.png
+  email: michael@netronix.be
+  disqus-shortname:
+  twitter: geekdinnerbe
+  facebook: Geekdinnerbe
+  github: michaelrigart/geekdinnerbe 
+  google:
+    plus: GeekdinnerBe
+    analytics: UA-1820236-12
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:

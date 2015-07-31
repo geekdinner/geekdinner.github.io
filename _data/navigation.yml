@@ -1,0 +1,15 @@
+# Site navigation links
+
+- title: Dinners 
+  url: /dinners/
+
+- title: Meetups
+  url: /meetups/
+
+- title: Organize
+  url: /organize/
+
+- title: About
+  url: /about/
+
+
