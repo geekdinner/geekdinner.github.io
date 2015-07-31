@@ -5,7 +5,7 @@ locale: en_US
 description: Geekdinner.be - Where geeks wine, dine and get their freak on
 logo: site-logo.png
 search: false
-url: http://michaelrigart.github.io/geekdinnerbe/
+url: http://geekdinner.be
 
 # Jekyll configuration
 
