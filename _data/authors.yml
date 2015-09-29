@@ -4,7 +4,7 @@ michael_rigart:
   name: Michaël Rigart
   web: http://www.michaelrigart.be
   email: michael@netronix.be
-  bio: "Freelance engineer @ Netronix.Devops / Open Source enthousiast"
+  bio: "Freelance engineer @ Netronix. Devops/Open Source enthousiast"
   avatar: netr0nix.jpg
   twitter: netr0nix
   google:
@@ -18,3 +18,10 @@ serge_van_ginderachter:
   twitter: svg
   google:
     plus: SergevanGinderachter0
+
+vincent_vdk:
+  name: Vincent V.d Kussen
+  web: http://blog.vanderkussen.org
+  bio: "Linux System Engineer/ Open Source Enthousiast / Cloud Infrastructure / MTB /Doer of things and stuff"
+  avatar: vincentvdk.jpg
+  twitter: vincentvdk

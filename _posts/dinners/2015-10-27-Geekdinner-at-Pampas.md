@@ -3,9 +3,9 @@ layout: post
 title: "Geekdinner at Pampas"
 modified:
 categories: dinners
-excerpt: "Geekdinner at Pampas"
-author: "michael_rigart"
-date: 2015-09-10T15:39:55-04:00
+excerpt: ""
+author: "vincent_vdk"
+date: 2015-10-27T19:00:00-04:00
 ---
 
 # Geekdinner @ Pampas
